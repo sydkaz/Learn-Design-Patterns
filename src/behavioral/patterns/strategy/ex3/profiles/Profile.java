@@ -8,6 +8,7 @@ import java.util.List;
 
 public abstract class Profile {
     List<State> states;
+
     Profile(){
         states = new ArrayList<>();
     }

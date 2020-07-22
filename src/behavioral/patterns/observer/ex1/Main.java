@@ -1,5 +1,4 @@
-package ex1;
-
+package behavioral.patterns.observer.ex1;
 import java.time.*;
 
 public class Main {

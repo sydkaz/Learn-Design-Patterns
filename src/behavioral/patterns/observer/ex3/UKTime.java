@@ -1,4 +1,4 @@
-package ex3;
+package  behavioral.patterns.observer.ex3;
 
 public class UKTime extends Observer {
     UKTime(){

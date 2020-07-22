@@ -1,4 +1,4 @@
-package ex1;
+package behavioral.patterns.observer.ex1;
 
 public interface Subject {
     void register(Observer o);

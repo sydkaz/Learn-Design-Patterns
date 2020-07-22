@@ -1,4 +1,5 @@
-package ex2;
+package behavioral.patterns.observer.ex2;
+
 
 public class AUTime extends Observer {
     AUTime(Subject s){

@@ -1,4 +1,4 @@
-package ex3;
+package behavioral.patterns.observer.ex3;
 
 import java.time.LocalDateTime;
 import java.time.ZoneId;

@@ -1,4 +1,4 @@
-package ex2;
+package behavioral.patterns.observer.ex2;
 
 public class USATime extends Observer {
     USATime(Subject s){
